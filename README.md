@@ -13,8 +13,8 @@
 ###  💬 Ask me about Ideas and Innovation
 ###  📫 How to reach me: Connect for collaboration, innovation, coding, coffee, and good humor!😉😉
 <p>
-  <img width="100px" height="100px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/>
-  <img  width="100px" height="100px" src="https://www.pngfind.com/pngs/m/2-23339_black-and-white-instagram-logo-instagram-logo-2018.png" />
+  <img width="50px" height="50px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/>
+  <img  width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111491.png" />
   </p>
 ###  ⚡ Fun fact: Good sense of humour and Sarcasm are my weakness. 
 
