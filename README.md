@@ -13,9 +13,9 @@
 ###  💬 Ask me about Ideas and Innovation
 ###  📫 How to reach me: Connect for collaboration, innovation, coding, coffee, and good humor!😉😉
 <p>
-<div href="https://www.linkedin.com/in/himanshu-gauba-504a7018a/">
+<a href="https://www.linkedin.com/in/himanshu-gauba-504a7018a/">
   <img width="50px" height="50px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/>
-  </div>
+  </a>
   <img  width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111491.png" />
   </p>
 ###  ⚡ Fun fact: Good sense of humour and Sarcasm are my weakness. 
