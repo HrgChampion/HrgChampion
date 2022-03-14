@@ -5,12 +5,12 @@ I am Himanshu Gauba from Gurgaon,Haryana. I am skilled in Full Stack Development
 
 ### 😄 Pronouns: 
        He/His
-    🔭 I’m currently working on ...
-   🌱 I’m currently learning React.JS
-  👯 I’m looking to collaborate on projects ,ideas .
+###  🔭 I’m currently working on ...
+###  🌱 I’m currently learning React.JS
+###  👯 I’m looking to collaborate on projects ,ideas .
  
-  💬 Ask me about Ideas and Innovation
-  📫 How to reach me: ...
+###  💬 Ask me about Ideas and Innovation
+###  📫 How to reach me: ...
   
-  ⚡ Fun fact: Good sense of humour 
+###  ⚡ Fun fact: Good sense of humour and Sarcasm are my weakness. 
 
