@@ -27,7 +27,7 @@
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HrgChampion&count_private=true&show_icons=true&hide=issues&border_radius=0&locale=en" alt="HrgChampion" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrgChampion&layout=compact&border_radius=0" alt="HrgChampion" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HrgChampion&count_private=true&show_icons=true&hide=issues&include_all_commits=true&border_radius=0&locale=en" alt="HrgChampion" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrgChampion&layout=compact&border_radius=0" alt="HrgChampion" height="139" />
 </p>
 
 
