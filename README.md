@@ -22,7 +22,7 @@ I am Himanshu Gauba from Gurgaon,Haryana. I am skilled in Full Stack Development
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="m-sehrawat" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&border_radius=0" alt="m-sehrawat" height="139" />
 </p> -->
 
-[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrgChampion&hide=issues&count_private=true&show_icons=true)](https://github.com/HrgChampion/github-readme-stats)("https://github-readme-stats.vercel.app/api/top-langs/?username=HrgChampion&layout=compact&border_radius=0" )
+[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrgChampion&hide=issues&count_private=true&show_icons=true)](https://github.com/HrgChampion/github-readme-stats)[("https://github-readme-stats.vercel.app/api/top-langs/?username=HrgChampion&layout=compact&border_radius=0" )]
 
 
 
