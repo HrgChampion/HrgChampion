@@ -1,4 +1,4 @@
-### Hi there 👋 👨‍💻
+## Hi there 👋 👨‍💻
 
 ---
 
@@ -6,7 +6,7 @@ I am Himanshu Gauba from Gurgaon,Haryana. I am skilled in Full Stack Development
 
 ### 😄 Pronouns: 
        He/His
-###  🔭 I’m currently working on ...
+###  🔭 I’m currently working on products that solve problems.
 ###  🌱 I’m currently learning React.JS
 ###  👯 I’m looking to collaborate on open-source projects and ideas .
  
