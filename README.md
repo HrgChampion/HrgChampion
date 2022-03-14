@@ -5,7 +5,7 @@
 ### I'm a Full Stack Web Developer skilled in MERN stack , Javascript and its frameworks whose mission in life is to  build useful products for solving everyday problems.
 
 ### 😄 Pronouns: 
-####      He/His
+####            He/His
 ###  🔭 I’m currently working on mastering my skills.
 ###  🌱 I’m currently learning React.JS
 ###  👯 I’m looking to collaborate on open-source projects and ideas .
@@ -16,7 +16,9 @@
 <a href="https://www.linkedin.com/in/himanshu-gauba-504a7018a/">
   <img width="50px" height="50px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/>
   </a>
+  <a href="https://www.instagram.com/himanshu.gauba/">
   <img  width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111491.png" />
+  </a>
   </p>
 ###  ⚡ Fun fact: Good sense of humour and Sarcasm are my weakness. 
 
