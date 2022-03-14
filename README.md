@@ -4,10 +4,10 @@
 
 ### I'm a Full Stack Web Developer skilled in MERN stack , Javascript and its frameworks whose mission in life is to  build useful products for solving everyday problems.
 
-<a href="https://ibb.co/dbyB3wZ"><img src="https://i.ibb.co/WD1nd4C/undraw-Developer-activity-re-39tg.png" alt="undraw-Developer-activity-re-39tg" border="0"  height ="200px" width="200px"/></a>
 
 ### 😄 Pronouns: 
-####            He/His
+####            He/His      
+                                                                <a href="https://ibb.co/dbyB3wZ"><img src="https://i.ibb.co/WD1nd4C/undraw-Developer-activity-re-39tg.png" alt="undraw-Developer-activity-re-39tg" border="0"  height ="200px" width="200px"/></a>
 ###  🔭 I’m currently working on mastering my skills.
 ###  🌱 I’m currently learning React.JS
 ###  👯 I’m looking to collaborate on open-source projects and ideas .
