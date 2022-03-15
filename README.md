@@ -1,6 +1,5 @@
 # Hi there 👋 👨‍💻
 
----
 
 ### I'm a Full Stack Web Developer skilled in MERN stack , Javascript and its frameworks whose mission in life is to  build useful products for solving everyday problems.
 
