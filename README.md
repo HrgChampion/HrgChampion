@@ -6,20 +6,12 @@
 
 ### 😄 Pronouns: 
 ####            He/His     
-###  🔭 I’m currently working on mastering my skills.
+<!-- ###  🔭 I’m currently working on mastering my skills. -->
 ###  🌱 I’m currently learning React.JS
 ###  👯 I’m looking to collaborate on open-source projects and ideas .
  
 ###  💬 Ask me about Ideas and Innovation
-###  📫 How to reach me: Connect for collaboration, innovation, coding, coffee, and good humor!😉😉
-<p>
-<a href="https://www.linkedin.com/in/himanshu-gauba-504a7018a/">
-  <img width="50px" height="50px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/>
-  </a>
-  <a href="https://www.instagram.com/himanshu.gauba/">
-  <img  width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111491.png" />
-  </a>
-  </p>
+
 
 ###  ⚡ Fun fact: Good sense of humour and sarcasm are my weakness 🙆‍♂️ . 
 
@@ -30,7 +22,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HrgChampion&count_private=true&show_icons=true&hide=issues&border_radius=0&locale=en" alt="HrgChampion" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrgChampion&layout=compact&border_radius=0" alt="HrgChampion" height="139" />
 </p>
 
-
+###  📫 How to reach me: Connect for collaboration, innovation, coding, coffee, and good humor!😉😉
+<p>
+<a href="https://www.linkedin.com/in/himanshu-gauba-504a7018a/">
+  <img width="50px" height="50px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/>
+  </a>
+  <a href="https://www.instagram.com/himanshu.gauba/">
+  <img  width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111491.png" />
+  </a>
+  </p>
 
 
 
