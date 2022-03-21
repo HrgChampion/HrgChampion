@@ -22,7 +22,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HrgChampion&count_private=true&show_icons=true&hide=issues&border_radius=0&locale=en" alt="HrgChampion" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrgChampion&layout=compact&border_radius=0" alt="HrgChampion" height="139" />
 </p>
 
-###  📫 How to reach me: Connect for collaboration, innovation, coding, coffee, and good humor!😉😉
+###  📫 How to reach me: Connect for collaboration, innovation, coding, coffee, and good humour!😉😉
 <p>
 <a href="https://www.linkedin.com/in/himanshu-gauba-504a7018a/">
   <img width="50px" height="50px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png"/>
